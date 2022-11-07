@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(52, 52, 52) !important;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: wheat;
+
+}
+
+.propriety{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 18rem;
+    --bs-card-bg: #c5c5c5 !important;
+    color: black;
+    border: 0 !important;
+    font-weight: 600;
+}
+
+
